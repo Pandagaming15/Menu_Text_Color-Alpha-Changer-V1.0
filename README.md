@@ -6,5 +6,6 @@ Changes the Menu text and the background alpha
 ![Screenshot_20220928_164610](https://user-images.githubusercontent.com/96707062/192921308-269d712a-7c2b-4c77-9f1f-cc7ff924d258.jpg)
 
 Credits:
-Pandagaming & 
+Pandagaming(Creating_Plugin)
+& 
 NOP(for the adresses)
